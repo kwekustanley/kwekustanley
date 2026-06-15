@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:1e3a8a,100:2563eb&height=240&section=header&text=Stanley%20Yeboah&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Designer.%20Developer.%20Solutions%20Builder.&descAlignY=60&descSize=20&descColor=93c5fd&fontAlignX=50&fontFamily=Orbitron"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:1e3a8a,100:2563eb&height=240&section=header&text=Stanley%20Yeboah&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Designer.%20Developer.%20Solutions%20Builder.&descAlignY=60&descSize=20&descColor=93c5fd&fontAlignX=50&fontFamily=Orbitron"/>
 
 <br/>
 
@@ -16,13 +16,17 @@
 
 ---
 
-<h3>I don't fit one label.</h3>
+## I don't fit one label.
 
-I design brands, build platforms, wire up AI systems, and automate workflows. Whatever the problem needs, that's what I do. Based in Ghana, working across industries and problem spaces.
+### I design brands, build platforms, wire up AI systems, and automate workflows. Whatever the problem needs, that's what I do.
 
-<h3>You bring a problem. I figure out what it actually needs, whether that's a brand, a system, or both. Then I build it.</h3>
+### Based in Ghana, working across industries and problem spaces.
 
-I've shipped e-commerce platforms, government-grade web systems, brand identities, and AI-powered tools.
+---
+
+## You bring a problem. I figure out what it actually needs, whether that's a brand, a system, or both. Then I build it.
+
+### E-commerce platforms, government web systems, brand identities, AI tools. Real work, real clients.
 
 ---
 
