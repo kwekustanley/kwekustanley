@@ -1,45 +1,39 @@
-## Stanley Yeboah
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:1e3a8a,100:2563eb&height=240&section=header&text=Stanley%20Yeboah&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Designer.%20Developer.%20Solutions%20Builder.&descAlignY=60&descSize=20&descColor=93c5fd"/>
 
-Designer. Developer. Systems thinker. I build whatever the problem needs.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1500&color=2563EB&center=true&vCenter=true&width=580&lines=I+design+it.+I+build+it.+I+ship+it.;Brands.+Platforms.+AI+Systems.;Got+a+problem%3F+I+probably+have+the+solution.;Based+in+Ghana.+Working+globally." alt="Typing SVG" />
+</div>
 
-Websites, mobile apps, AI agents, automation pipelines, brand identities, full platforms. If it solves a real problem, I'm interested. Based in Ghana, working across industries.
+<br/>
 
----
+<div align="center">
 
-**What working with me looks like**
+### Design
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" />
 
-You bring a problem. I figure out what it actually needs, whether that's a brand, a system, an AI integration, or all three. Then I build it.
+### Build
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,postgres&theme=dark" />
 
-I've shipped e-commerce platforms, government-grade web systems, brand identities, and AI-powered tools. The tools I use depend on what the job calls for.
+</div>
 
----
-
-**The full toolkit**
-
-```
-Design       →  Figma · Adobe Suite · Brand Identity · UI/UX · Motion
-Frontend     →  Next.js · React · TypeScript · Tailwind CSS
-Backend      →  Node.js · Python · REST APIs · tRPC
-AI & Agents  →  Claude API · OpenAI · RAG · Automation Pipelines
-Data         →  PostgreSQL · Prisma · MongoDB
-Payments     →  Paystack · Stripe
-Infra        →  Vercel · Railway · Docker · GitHub Actions
-```
+<br/>
 
 ---
 
-**Currently building**
+I don't fit one label. I design brands, build platforms, wire up AI systems, and automate workflows. Whatever the problem needs, that's what I do. Based in Ghana, working across industries and problem spaces.
 
-`mbvogue-storefront` · Full e-commerce platform for a clothing brand. WhatsApp AI sales agent, Paystack, mobile-first PWA.
+**You bring a problem. I figure out what it actually needs, whether that's a brand, a system, or both. Then I build it.**
 
-`paystack-nextjs-starter` · The Paystack boilerplate African developers actually need. Clean, typed, production-ready.
-
-`it-company-site` · My agency's website. Next.js + Sanity CMS.
+I've shipped e-commerce platforms, government-grade web systems, brand identities, and AI-powered tools.
 
 ---
 
-**Let's talk**
+<div align="center">
 
-codestanley0@gmail.com
+[![Email](https://img.shields.io/badge/Let's%20Talk-codestanley0%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codestanley0@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kwekustanley&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="140" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:050d1a&height=120&section=footer"/>
