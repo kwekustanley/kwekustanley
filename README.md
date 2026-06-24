@@ -1,43 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:1e3a8a,100:2563eb&height=240&section=header&text=Stanley%20Yeboah&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Designer.%20Developer.%20Solutions%20Builder.&descAlignY=60&descSize=20&descColor=93c5fd&fontAlignX=50&fontFamily=Orbitron"/>
+# Kwekustanley
 
-<br/>
+**Design. Development. IT Consulting.**
 
-<div align="center">
-
-### Design
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
-
-### Build
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,python,postgres&theme=dark" />
-
-</div>
-
-<br/>
+I help organisations deliver polished digital products, secure cloud solutions, and automation that improves business outcomes.
 
 ---
 
-## I don't fit one label.
+## About
 
-### I design brands, build platforms, wire up AI systems, and automate workflows. Whatever the problem needs, that's what I do.
-
-### Based in Ghana, working across industries and problem spaces.
+I am an IT consultant and product professional with experience in brand systems, digital platforms, public sector services, and cloud-enabled workflows. I combine design thinking, software delivery, and infrastructure practice to solve real business problems.
 
 ---
 
-## You bring a problem. I figure out what it actually needs, whether that's a brand, a system, or both. Then I build it.
+## What I do
 
-### E-commerce platforms, government web systems, brand identities, AI tools. Real work, real clients.
+- Consult on digital strategy, technology fit, and solution design.
+- Build responsive web applications, e-commerce platforms, and internal tools.
+- Design brand systems, user interfaces, and customer journeys.
+- Develop digital services for public sector and regulated organisations.
+- Automate workflows using AI, scripting, and cloud integrations.
+- Support cloud adoption with AWS fundamentals and solution design.
 
 ---
 
-<div align="center">
+## Skills
 
-<a href="mailto:codestanley0@gmail.com">
-  <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-%20codestanley0%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050d1a" />
-</a>
+- **Consulting**: IT strategy, solution planning, stakeholder collaboration
+- **Product + Design**: brand strategy, UI/UX, visual systems, prototyping
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Python, PostgreSQL, Prisma
+- **Cloud & DevOps**: AWS, deployment, GitHub workflows
+- **Tools**: GitHub, Vercel, Figma, Adobe Photoshop, Illustrator, InDesign, Affinity Designer, AWS CLI, Docker, Postman, VS Code, Google Workspace
 
-</div>
+---
 
-<br/>
+## Focus areas
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:050d1a&height=120&section=footer"/>
+- Digital transformation for startups, agencies, and institutions
+- E-commerce and customer-facing product platforms
+- Public sector digital services and operations
+- Cloud-ready solutions with security and scalability in mind
+- AI-enabled workflows and automation for faster delivery
+
+---
+
+## Highlights
+
+- Consulted on digital projects for teams and organisations
+- Delivered polished public-facing websites and operational platforms for regulated organisations
+- Built automation that reduced manual effort and improved delivery speed
+- Actively studying for AWS Solutions Architect certification to strengthen cloud practice
+
+---
+
+## Professional approach
+
+1. **Understand** the business problem and desired outcome.
+2. **Plan** the solution, scope, and delivery approach.
+3. **Design** the right product, system, or service.
+4. **Build** solutions that are reliable, scalable, and usable.
+5. **Optimize** with automation and cloud-ready delivery.
+
+---
+
+## Contact
+
+[Email me](mailto:codestanley0@gmail.com)
+
+---
+
+> Available for IT consulting, digital product work, and cloud solution planning.
